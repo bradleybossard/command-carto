@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bradleybossard/command-carto/issues"
   },
-  "homepage": "https://github.com/bradleybossard/command-carto#readme"
+  "homepage": "https://github.com/bradleybossard/command-carto#readme",
+  "dependencies": {
+    "mapshaper": "0.5.77"
+  }
 }
